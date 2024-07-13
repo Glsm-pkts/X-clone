@@ -1,8 +1,26 @@
-# React + Vite
+## Twitter Clon
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, Twitter benzeri bir sosyal medya uygulamasıdır. Uygulama, kullanıcıların tweet atmasına, tweetleri beğenmesine olanak tanır. Bu projede aşağıdaki teknolojiler kullanılmıştır:
 
-Currently, two official plugins are available:
+## Kullanılan Teknolojiler
+- Firebase: Gerçek zamanlı veri tabanı ve kimlik doğrulama.
+- React: Kullanıcı arayüzü oluşturmak için.
+- React-DOM: React bileşenlerini DOM'a bağlamak için.
+- Moment: Tarih ve saat işlemleri için.
+- React-Icons: İkonlar eklemek için.
+- React-Router-Dom: Uygulama içinde sayfa yönlendirmesi için.
+- React-Toastify: Kullanıcı bildirimleri için.
+- UUID: Benzersiz kimlikler oluşturmak için.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+# Ekran görüntüsü
+
+![](./public/Ekran%20Resmi%202024-07-13%2019.57.37.png)
+
+![](./public/Ekran%20Resmi%202024-07-13%2019.58.18.png)
+
+
+# Gif
+
+![](./public/Zight%20Recording%202024-07-13%20at%2007.54.28%20PM.gif)

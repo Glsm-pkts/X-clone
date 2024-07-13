@@ -63,7 +63,7 @@ signInWithEmailAndPassword(auth, email, pass)
           <input className='text-black rounded mt-1 p-2 outline-none shadow-lg focus:shadow-[gray]' type="text" required onChange={(e) => setEmail(e.target.value)} />
 
           <label>Şifre</label>
-          <input className='text-black rounded mt-1 p-2 outline-none shadow-lg focus:shadow-[gray]' type="text" required onChange={(e) => setPass(e.target.value)} />
+          <input className='text-black rounded mt-1 p-2 outline-none shadow-lg focus:shadow-[gray]' type="password" required onChange={(e) => setPass(e.target.value)} />
 
           <button className='mt-10 bg-white text-black rounded-full p-1 font-bold transition hover:bg-gray-300 '>
             {isSignUp ? "Kaydolun" :"Giriş Yap"}</button>
